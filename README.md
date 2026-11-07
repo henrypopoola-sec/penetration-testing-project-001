@@ -1,37 +1,52 @@
-# penetration-testing-project-001
+Penetration Testing Project 001
 
-## project overview
-A Beginner practical Cybersecurity project focus on learning Ethical penetration testing 
+Project Overview
 
-##Target
-example.com
+This is a beginner-level practical cybersecurity project documenting my journey into ethical hacking and penetration testing.
 
-##learning objective
-- Passive reconnaissance
-- DNS enumeration
-- HTTP analysis
-- Technology identification
-- Authorized network discovery
-- Vulnerability assessment
+The project focuses on understanding reconnaissance, DNS enumeration, web technologies, network discovery, vulnerability assessment, and professional security reporting.
 
-## Tools
+Project Target
+
+- Domain: example.com
+- Purpose: Educational reconnaissance and web analysis.
+- Note: Active security testing will only be conducted on authorized lab environments.
+
+Project Objectives
+
+- Understand penetration testing methodology.
+- Perform passive reconnaissance.
+- Understand DNS records and domain information.
+- Analyse HTTP responses and headers.
+- Identify web technologies.
+- Practise network discovery in authorized labs.
+- Learn vulnerability assessment.
+- Produce professional security reports.
+
+Tools and Environment
+
+- Android
 - Termux
 - WHOIS
 - DNS utilities
 - cURL
-- Nmap (authorized lab)
+- Nmap (authorized lab environments)
 
-## Methodology
-Each phase will contain:
-- Objectives
-- Practical activities
-- Commands executed
-- Evidence and results
-- Findings
-- Lessons learned
+Assessment Methodology
 
-## Disclaimer
-All testing will be conducted only on
-systems where authorization exists.
-example.com is used for documentation
-and passive learning exercises.
+Each phase will document:
+
+1. Objective
+2. Practical activities
+3. Commands executed
+4. Evidence and results
+5. Technical findings
+6. Lessons learned
+
+Project Disclaimer
+
+This project is strictly educational. All active security testing will be performed only on systems owned by me or where explicit authorization has been granted.
+
+Author
+
+Aspiring Junior Penetration Tester.
